@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="193" height="13" viewBox="0 0 193 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2px;
+        stroke-dasharray: 8 16;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="704" y="431" width="191" height="11" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#3d3029"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-703 -430)" style="fill: none; filter: url(#filter)">
+    <path id="dashed_line" data-name="dashed line" class="cls-1" d="M705,431c25.434,0,25.891,9,48,9s29.213-9,47-9,29.047,9,47,9,24.229-9,48-9" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-703 -430)" xlink:href="#dashed_line" style="stroke: #fff; filter: none; fill: none"/>
+</svg>

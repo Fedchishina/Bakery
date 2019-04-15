@@ -1,0 +1,32 @@
+.networks {
+  float: right;
+  margin: 0;
+  margin-right: 160px;
+  padding: 0;
+
+  width: 196px;
+  text-align: right;
+}
+
+.networks__link {
+  display: inline-block;
+  vertical-align: top;
+  width: 35px;
+  height: 35px;
+  margin: 15px 0;
+
+  font-size: 0;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.networks__link_tw {
+  background: url("../img/network-tw.svg") center no-repeat;
+}
+
+.networks__link_fb {
+  background: url("../img/network-fb.svg") center no-repeat;}
+
+.networks__link_inst {
+  background: url("../img/network-inst.svg") center no-repeat;
+}

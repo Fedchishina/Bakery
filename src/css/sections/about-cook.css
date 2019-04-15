@@ -1,0 +1,150 @@
+.about-cook {
+  min-height: 760px;
+  background: url('../../img/bg_section_art.jpg') center no-repeat;
+}
+
+.about-cook__info {
+  float: left;
+  margin-left: 168px;
+}
+
+.about-cook__gallery {
+  float: right;
+  margin: 0;
+  margin-top: 120px;
+  margin-right: 160px;
+}
+
+.cook-info {
+  padding-top: 100px;
+  padding-bottom: 53px;
+  padding-right: 20px;
+  padding-left: 75px;
+  width: 495px;
+
+  text-align: center;
+
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  letter-spacing: 1px;
+
+  color: #56534c;
+}
+
+.cook-info__title {
+  margin: 0;
+  margin-bottom: 5px;
+
+  font-size: 47px;
+}
+
+.cook-info__description {
+  margin: 0;
+  margin-bottom: 60px;
+
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #a47d5e;
+}
+
+.cook-info__text {
+  margin: 0;
+  margin-bottom: 38px;
+
+  font-family: 'Proxima Nova Regular', 'Arial' , sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.chef-cook__title {
+  margin-bottom: 44px;
+  font-size: 23px;
+}
+
+.cook-name__part {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 20px;
+
+  border-top: 1px solid #d7d5ca;
+  border-bottom: 1px solid #d7d5ca;
+  font-size: 23px;
+  color: #56534c;
+}
+
+.cook-name__img {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 20px;
+}
+.chef-cook__name {
+  margin-bottom: 10px;
+}
+
+.chef-cook__quote {
+  font-size: 24px;
+  font-family: "Scriptina", arial, sans-serif;
+  color: #a47d5e;
+}
+
+.chef-cook__quote-text {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 30px auto;
+  padding: 0 40px;
+
+  width: 250px;
+  height: 100px;
+  letter-spacing: 1px;
+}
+
+.chef-cook__quote:before {
+  display: inline-block;
+  vertical-align: top;
+
+  content: '“';
+
+  font-size: 60px;
+  font-family: 'Times New Roman', arial, sans-serif;
+  color: #b7b6b4;
+}
+
+.chef-cook__quote:after {
+  display: inline-block;
+  vertical-align: bottom;
+
+  content: '”';
+
+  font-size: 60px;
+  font-family: 'Times New Roman', arial, sans-serif;
+  color: #b7b6b4;
+}
+
+.cook-gallery {
+  position: relative;
+
+  width: 630px;
+  font-size: 0;
+}
+
+.cook-gallery__item {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  margin-bottom: 18px;
+
+  font-size: 14px;
+  width: 295px;
+}
+
+.cook-gallery__item:nth-child(2n) {
+  margin-right: 0;
+}
+
+.cook-gallery__label{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -136px;
+  margin-top: -136px;
+}

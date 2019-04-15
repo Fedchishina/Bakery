@@ -1,0 +1,97 @@
+.about-sandwich {
+  padding-top: 90px;
+  min-height: 930px;
+
+  background: #f3f1e9 url('../../img/bg_section_jibarito.jpg') top no-repeat;
+}
+
+.about-sandwich__title {
+  margin: 0;
+  margin-bottom: 6px;
+
+  text-align: center;
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  font-size: 48px;
+  letter-spacing: 1px;
+  color: #56534c;
+}
+
+.ingredients {
+  margin: 0;
+  padding: 0;
+  width: 290px;
+  text-align: center;
+}
+
+.ingredient__item {
+  margin-bottom: 60px;
+
+  font-size: 14px;
+  font-family: 'Proxima Nova Regular', 'Arial' , sans-serif;
+  letter-spacing: 1px;
+  list-style-type: none;
+}
+
+.ingredient__item-image {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.ingredient__item-title {
+  margin: 0;
+  margin-bottom: 20px;
+
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  font-size: 30px;
+  color: #a47d5e;
+}
+
+.ingredient__item-description {
+  margin: 0;
+
+  font-weight: bold;
+  color: #56534c;
+}
+
+.about-sandwich__description {
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #a47d5e;
+}
+
+.about-sandwich__ingredients {
+  float: left;
+  margin-left: 170px;
+}
+
+.about-sandwich__card {
+  position: relative;
+  float: right;
+  margin-top: 90px;
+  margin-right: 170px;
+  width: 840px;
+}
+
+.about-sandwich__btn {
+  position: absolute;
+  bottom: -15px;
+  left: -23px;
+  padding: 17px 26px;
+
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #dfc691;
+}
+
+.about-sandwich__card-list {
+  position: absolute;
+  top: -25px;
+  right: 9px;
+}

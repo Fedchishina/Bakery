@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Proxima Nova Regular';
+    src: url('../fonts/proxima-nova/proxima_nova_regular-webfont.woff2') format('woff2'),
+         url('../fonts/proxima-nova/proxima_nova_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('../fonts/proxima-nova/proxima_nova_bold-webfont.woff2') format('woff2'),
+         url('../fonts/proxima-nova/proxima_nova_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Scriptina';
+    src: url('../fonts/scriptina/scriptin-webfont.woff2') format('woff2'),
+         url('../fonts/scriptina/scriptin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Alegreya Bold';
+    src: url('../fonts/alegreya/alegreya-bold-webfont.woff2') format('woff2'),
+         url('../fonts/alegreya/alegreya-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Alegreya Regular';
+    src: url('../fonts/alegreya/alegreya-regular-webfont.woff2') format('woff2'),
+         url('../fonts/alegreya/alegreya-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'Playfair Display Bold';
+    src: url('../fonts/playfair-display/playfairdisplay-bold-webfont.woff2') format('woff2'),
+         url('../fonts/playfair-display/playfairdisplay-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Playfair Display Regular';
+    src: url('../fonts/playfair-display/playfairdisplay-regular-webfont.woff2') format('woff2'),
+         url('../fonts/playfair-display/playfairdisplay-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

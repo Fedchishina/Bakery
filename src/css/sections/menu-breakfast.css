@@ -1,0 +1,134 @@
+.menu-breakfast {
+  background: url('../../img/bg_section_breakfast.jpg') top no-repeat;
+}
+
+.menu-breakfast__list {
+  float: left;
+}
+
+.menu-breakfast__note {
+  float: right;
+  margin-top: 90px;
+  margin-right: 140px;
+}
+
+.menu {
+  margin: 45px 200px;
+  margin-top: 80px;
+  margin-left: 367px;
+
+  text-align: center;
+  width: 320px;
+}
+
+.menu__list {
+  margin: 0;
+  padding: 0;
+}
+
+.menu__title {
+  margin: 0;
+
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  font-size: 60px;
+  letter-spacing: 2px;
+  color: #ffffff;
+}
+
+.menu__description {
+  margin: 0;
+  margin-bottom: 60px;
+
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #a47d5e;
+}
+
+.menu__item {
+  min-height: 155px;
+}
+
+.menu__item-name {
+  margin-bottom: 10px;
+
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  font-size: 30px;
+  letter-spacing: 2px;
+  color: #ffffff;
+}
+
+.menu__item-description {
+  margin-bottom: 15px;
+
+  font-family: 'Proxima Nova Regular', 'Arial' , sans-serif;
+  font-size: 18px;
+  color: #9d9c9e;
+}
+
+.menu__item:last-child .menu__item-price-mark {
+  display: none;
+}
+
+.menu__item-cost {
+  font-family: 'Alegreya Regular', arial, sans-serif;
+  font-size: 36px;
+  letter-spacing: 2px;
+  color: #a47d5e;
+  margin-bottom: 7px;
+}
+
+.note {
+  padding: 45px;
+  padding-right: 80px;
+
+  background: url('../../img/bg_banner.png') top no-repeat;
+  min-height: 510px;
+  width: 340px;
+
+  text-align: center;
+
+  font-family: 'Proxima Nova Regular', 'Arial' , sans-serif;
+  color: #56534c;
+}
+
+.note .btn {
+  color: #a47d5e;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  font-size: 18px;
+}
+
+.note__labels {
+  margin-bottom: 145px;
+
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.note__label_left {
+  float: left;
+  margin-left: 55px;
+}
+
+.note__label_right {
+  float: right;
+  margin-right: 55px;
+}
+
+.note__title {
+  margin: 0;
+  margin-bottom: 30px;
+
+  font-family: 'Alegreya Bold', 'Arial' , sans-serif;
+  letter-spacing: 1px;
+  line-height: 55px;
+  font-size: 44px;
+}
+
+.note__description {
+  margin-bottom: 40px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 33px;
+}

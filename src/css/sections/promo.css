@@ -1,0 +1,42 @@
+.promo {
+  position: relative;
+  padding-top: 270px;
+  min-height: 630px;
+
+  background: url('../../img/bg_shadow.png') center no-repeat, url('../../img/section_promo.jpg') center no-repeat;
+  text-align: center;
+}
+
+.promo__title {
+  margin: 0;
+  margin-bottom: 55px;
+
+  font-size: 92px;
+  font-family: 'Playfair Display Bold', 'Arial' , sans-serif;
+  letter-spacing: 6px;
+  color: #ffffff;
+}
+
+.promo__line {
+  margin-bottom: 55px;
+}
+
+.promo__bread-icon {
+  position: absolute;
+  bottom: -55px;
+  right: 50%;
+  margin-right: -50px;
+}
+
+.promo__description {
+  margin: 0 auto;
+  margin-bottom: 62px;
+
+  width: 550px;
+  font-family: 'Proxima Nova Regular', 'Arial' , sans-serif;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 2px;
+
+  color: #ffffff;
+}
